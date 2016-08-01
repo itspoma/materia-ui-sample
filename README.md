@@ -1,2 +1,6 @@
-# materia-ui-sample
-The sample usage of material-ui (the Material Design implementation over React)
+# [Materia-UI](http://www.material-ui.com/) Sample App
+
+```
+$ npm start
+$ open http://localhost:3000/
+```
